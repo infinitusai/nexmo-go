@@ -9,7 +9,7 @@ import (
 	"fmt"
 
 	"github.com/dghubble/sling"
-	"github.com/golang-jwt/jwt"
+	"github.com/golang-jwt/jwt/v4"
 )
 
 type AuthType uint8
